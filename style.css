@@ -11,3 +11,24 @@ h1 {
     font-family: 'Cabin Sketch', cursive;
     color: darkolivegreen;
 }
+
+#todoForm {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+#btn {
+    background-color: lightgoldenrodyellow;
+    color: darkolivegreen;
+    font-size: 15px;
+    border-radius: 17px;
+    width: 20%;
+    position: relative;
+    padding: 5px 5px;
+    transition-duration: 0.7;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+#btn:hover {
+    background-color: darkolivegreen;
+    color: whitesmoke;
+  }
